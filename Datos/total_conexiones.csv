@@ -1,0 +1,801 @@
+Dispositivo,Ciudad,Provincia,Trimestre,Plataforma,total_conexiones_exitosas,intentos_acceso_fallido,ID_Tiempo,ID_Ubicacion,ID_Plataforma,ID_Dispositivo
+"Smart TV 55"" HD LED",Córdoba,Córdoba,1,Amazon Prime,9,4,60004,60006,60003,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,1,Disney+,12,4,60004,60006,60010,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,1,HBO Max,7,1,60004,60006,60014,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,1,Netflix,5,8,60004,60006,60008,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,1,Paramount+,8,3,60004,60006,60002,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,2,Amazon Prime,10,2,60003,60006,60003,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,2,Disney+,7,1,60003,60006,60010,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,2,HBO Max,13,5,60003,60006,60014,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,2,Netflix,10,1,60003,60006,60008,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,2,Paramount+,12,3,60003,60006,60002,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,3,Amazon Prime,13,3,60005,60006,60003,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,3,Disney+,13,2,60005,60006,60010,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,3,HBO Max,5,0,60005,60006,60014,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,3,Netflix,10,6,60005,60006,60008,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,3,Paramount+,10,2,60005,60006,60002,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,4,Amazon Prime,13,3,60002,60006,60003,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,4,Disney+,11,2,60002,60006,60010,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,4,HBO Max,6,5,60002,60006,60014,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,4,Netflix,8,2,60002,60006,60008,60005
+"Smart TV 55"" HD LED",Córdoba,Córdoba,4,Paramount+,8,7,60002,60006,60002,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,1,Amazon Prime,11,4,60004,60014,60003,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,1,Disney+,11,1,60004,60014,60010,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,1,HBO Max,7,2,60004,60014,60014,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,1,Netflix,7,3,60004,60014,60008,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,1,Paramount+,7,2,60004,60014,60002,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,2,Amazon Prime,10,6,60003,60014,60003,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,2,Disney+,5,6,60003,60014,60010,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,2,HBO Max,7,4,60003,60014,60014,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,2,Netflix,10,7,60003,60014,60008,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,2,Paramount+,11,3,60003,60014,60002,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,3,Amazon Prime,9,2,60005,60014,60003,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,3,Disney+,10,1,60005,60014,60010,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,3,HBO Max,17,1,60005,60014,60014,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,3,Netflix,10,8,60005,60014,60008,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,3,Paramount+,9,2,60005,60014,60002,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,4,Amazon Prime,11,3,60002,60014,60003,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,4,Disney+,7,6,60002,60014,60010,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,4,HBO Max,12,3,60002,60014,60014,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,4,Netflix,12,3,60002,60014,60008,60005
+"Smart TV 55"" HD LED",La Plata,Buenos Aires,4,Paramount+,6,7,60002,60014,60002,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,1,Amazon Prime,12,2,60004,60004,60003,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,1,Disney+,11,2,60004,60004,60010,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,1,HBO Max,5,2,60004,60004,60014,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,1,Netflix,9,4,60004,60004,60008,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,1,Paramount+,10,2,60004,60004,60002,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,2,Amazon Prime,12,2,60003,60004,60003,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,2,Disney+,10,3,60003,60004,60010,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,2,HBO Max,6,3,60003,60004,60014,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,2,Netflix,9,0,60003,60004,60008,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,2,Paramount+,8,1,60003,60004,60002,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,3,Amazon Prime,11,4,60005,60004,60003,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,3,Disney+,11,2,60005,60004,60010,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,3,HBO Max,11,2,60005,60004,60014,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,3,Netflix,14,1,60005,60004,60008,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,3,Paramount+,10,4,60005,60004,60002,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,4,Amazon Prime,13,2,60002,60004,60003,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,4,Disney+,13,1,60002,60004,60010,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,4,HBO Max,8,1,60002,60004,60014,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,4,Netflix,8,2,60002,60004,60008,60005
+"Smart TV 55"" HD LED",Mendoza,Mendoza,4,Paramount+,14,2,60002,60004,60002,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,1,Amazon Prime,4,2,60004,60022,60003,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,1,Disney+,5,4,60004,60022,60010,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,1,HBO Max,4,4,60004,60022,60014,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,1,Netflix,10,3,60004,60022,60008,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,1,Paramount+,9,2,60004,60022,60002,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,2,Amazon Prime,8,4,60003,60022,60003,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,2,Disney+,12,4,60003,60022,60010,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,2,HBO Max,8,3,60003,60022,60014,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,2,Netflix,10,2,60003,60022,60008,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,2,Paramount+,9,3,60003,60022,60002,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,3,Amazon Prime,6,3,60005,60022,60003,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,3,Disney+,12,2,60005,60022,60010,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,3,HBO Max,10,1,60005,60022,60014,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,3,Netflix,3,3,60005,60022,60008,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,3,Paramount+,9,2,60005,60022,60002,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,4,Amazon Prime,15,1,60002,60022,60003,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,4,Disney+,7,1,60002,60022,60010,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,4,HBO Max,14,1,60002,60022,60014,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,4,Netflix,12,1,60002,60022,60008,60005
+"Smart TV 55"" HD LED",Neuquén,Neuquén,4,Paramount+,13,5,60002,60022,60002,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,1,Amazon Prime,16,4,60004,60012,60003,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,1,Disney+,9,2,60004,60012,60010,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,1,HBO Max,7,5,60004,60012,60014,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,1,Netflix,8,2,60004,60012,60008,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,1,Paramount+,7,4,60004,60012,60002,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,2,Amazon Prime,9,4,60003,60012,60003,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,2,Disney+,9,3,60003,60012,60010,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,2,HBO Max,8,6,60003,60012,60014,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,2,Netflix,12,2,60003,60012,60008,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,2,Paramount+,10,2,60003,60012,60002,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,3,Amazon Prime,5,1,60005,60012,60003,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,3,Disney+,5,3,60005,60012,60010,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,3,HBO Max,8,4,60005,60012,60014,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,3,Netflix,11,3,60005,60012,60008,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,3,Paramount+,10,1,60005,60012,60002,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,4,Amazon Prime,10,3,60002,60012,60003,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,4,Disney+,7,6,60002,60012,60010,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,4,HBO Max,8,4,60002,60012,60014,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,4,Netflix,12,3,60002,60012,60008,60005
+"Smart TV 55"" HD LED",Paraná,Entre Ríos,4,Paramount+,15,4,60002,60012,60002,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,1,Amazon Prime,6,4,60004,60005,60003,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,1,Disney+,11,4,60004,60005,60010,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,1,HBO Max,11,2,60004,60005,60014,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,1,Netflix,15,7,60004,60005,60008,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,1,Paramount+,11,7,60004,60005,60002,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,2,Amazon Prime,7,4,60003,60005,60003,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,2,Disney+,5,3,60003,60005,60010,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,2,HBO Max,9,5,60003,60005,60014,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,2,Netflix,8,1,60003,60005,60008,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,2,Paramount+,6,5,60003,60005,60002,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,3,Amazon Prime,6,3,60005,60005,60003,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,3,Disney+,8,4,60005,60005,60010,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,3,HBO Max,7,3,60005,60005,60014,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,3,Netflix,14,2,60005,60005,60008,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,3,Paramount+,12,1,60005,60005,60002,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,4,Amazon Prime,9,5,60002,60005,60003,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,4,Disney+,11,5,60002,60005,60010,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,4,HBO Max,1,1,60002,60005,60014,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,4,Netflix,13,3,60002,60005,60008,60005
+"Smart TV 55"" HD LED",Rosario,Santa Fe,4,Paramount+,9,3,60002,60005,60002,60005
+"Smart TV 55"" HD LED",Salta,Salta,1,Amazon Prime,9,2,60004,60007,60003,60005
+"Smart TV 55"" HD LED",Salta,Salta,1,Disney+,9,2,60004,60007,60010,60005
+"Smart TV 55"" HD LED",Salta,Salta,1,HBO Max,11,7,60004,60007,60014,60005
+"Smart TV 55"" HD LED",Salta,Salta,1,Netflix,7,2,60004,60007,60008,60005
+"Smart TV 55"" HD LED",Salta,Salta,1,Paramount+,9,4,60004,60007,60002,60005
+"Smart TV 55"" HD LED",Salta,Salta,2,Amazon Prime,9,5,60003,60007,60003,60005
+"Smart TV 55"" HD LED",Salta,Salta,2,Disney+,8,2,60003,60007,60010,60005
+"Smart TV 55"" HD LED",Salta,Salta,2,HBO Max,8,4,60003,60007,60014,60005
+"Smart TV 55"" HD LED",Salta,Salta,2,Netflix,10,1,60003,60007,60008,60005
+"Smart TV 55"" HD LED",Salta,Salta,2,Paramount+,8,1,60003,60007,60002,60005
+"Smart TV 55"" HD LED",Salta,Salta,3,Amazon Prime,7,2,60005,60007,60003,60005
+"Smart TV 55"" HD LED",Salta,Salta,3,Disney+,11,3,60005,60007,60010,60005
+"Smart TV 55"" HD LED",Salta,Salta,3,HBO Max,5,4,60005,60007,60014,60005
+"Smart TV 55"" HD LED",Salta,Salta,3,Netflix,10,4,60005,60007,60008,60005
+"Smart TV 55"" HD LED",Salta,Salta,3,Paramount+,12,8,60005,60007,60002,60005
+"Smart TV 55"" HD LED",Salta,Salta,4,Amazon Prime,11,3,60002,60007,60003,60005
+"Smart TV 55"" HD LED",Salta,Salta,4,Disney+,11,2,60002,60007,60010,60005
+"Smart TV 55"" HD LED",Salta,Salta,4,HBO Max,7,2,60002,60007,60014,60005
+"Smart TV 55"" HD LED",Salta,Salta,4,Netflix,9,3,60002,60007,60008,60005
+"Smart TV 55"" HD LED",Salta,Salta,4,Paramount+,6,3,60002,60007,60002,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,1,Amazon Prime,8,3,60004,60009,60003,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,1,Disney+,15,1,60004,60009,60010,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,1,HBO Max,4,4,60004,60009,60014,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,1,Netflix,9,3,60004,60009,60008,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,1,Paramount+,9,2,60004,60009,60002,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,2,Amazon Prime,15,1,60003,60009,60003,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,2,Disney+,7,0,60003,60009,60010,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,2,HBO Max,11,3,60003,60009,60014,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,2,Netflix,7,2,60003,60009,60008,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,2,Paramount+,10,7,60003,60009,60002,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,3,Amazon Prime,14,0,60005,60009,60003,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,3,Disney+,7,4,60005,60009,60010,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,3,HBO Max,12,1,60005,60009,60014,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,3,Netflix,9,3,60005,60009,60008,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,3,Paramount+,16,0,60005,60009,60002,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,4,Amazon Prime,11,2,60002,60009,60003,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,4,Disney+,2,5,60002,60009,60010,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,4,HBO Max,9,1,60002,60009,60014,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,4,Netflix,12,3,60002,60009,60008,60005
+"Smart TV 55"" HD LED",San Juan,San Juan,4,Paramount+,9,1,60002,60009,60002,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,1,Amazon Prime,6,4,60004,60018,60003,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,1,Disney+,8,8,60004,60018,60010,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,1,HBO Max,15,9,60004,60018,60014,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,1,Netflix,6,8,60004,60018,60008,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,1,Paramount+,3,6,60004,60018,60002,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,2,Amazon Prime,5,10,60003,60018,60003,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,2,Disney+,5,4,60003,60018,60010,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,2,HBO Max,6,1,60003,60018,60014,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,2,Netflix,13,7,60003,60018,60008,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,2,Paramount+,5,3,60003,60018,60002,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,3,Amazon Prime,6,6,60005,60018,60003,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,3,Disney+,5,4,60005,60018,60010,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,3,HBO Max,6,4,60005,60018,60014,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,3,Netflix,10,10,60005,60018,60008,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,3,Paramount+,5,5,60005,60018,60002,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,4,Amazon Prime,6,7,60002,60018,60003,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,4,Disney+,6,3,60002,60018,60010,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,4,HBO Max,3,9,60002,60018,60014,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,4,Netflix,12,8,60002,60018,60008,60005
+"Smart TV 55"" HD LED",San Miguel de Tucumán,Tucumán,4,Paramount+,7,5,60002,60018,60002,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,1,Amazon Prime,15,1,60004,60013,60003,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,1,Disney+,7,1,60004,60013,60010,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,1,HBO Max,8,2,60004,60013,60014,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,1,Netflix,8,0,60004,60013,60008,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,1,Paramount+,9,0,60004,60013,60002,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,2,Amazon Prime,11,2,60003,60013,60003,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,2,Disney+,11,3,60003,60013,60010,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,2,HBO Max,15,2,60003,60013,60014,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,2,Netflix,21,2,60003,60013,60008,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,2,Paramount+,13,5,60003,60013,60002,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,3,Amazon Prime,8,0,60005,60013,60003,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,3,Disney+,11,4,60005,60013,60010,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,3,HBO Max,11,2,60005,60013,60014,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,3,Netflix,15,1,60005,60013,60008,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,3,Paramount+,9,1,60005,60013,60002,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,4,Amazon Prime,7,0,60002,60013,60003,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,4,Disney+,11,3,60002,60013,60010,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,4,HBO Max,16,0,60002,60013,60014,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,4,Netflix,9,2,60002,60013,60008,60005
+"Smart TV 55"" HD LED",Trelew,Chubut,4,Paramount+,9,1,60002,60013,60002,60005
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,1,Amazon Prime,11,7,60004,60006,60003,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,1,Disney+,5,4,60004,60006,60010,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,1,HBO Max,9,3,60004,60006,60014,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,1,Netflix,15,3,60004,60006,60008,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,1,Paramount+,12,2,60004,60006,60002,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,2,Amazon Prime,9,4,60003,60006,60003,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,2,Disney+,12,2,60003,60006,60010,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,2,HBO Max,16,3,60003,60006,60014,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,2,Netflix,7,3,60003,60006,60008,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,2,Paramount+,15,4,60003,60006,60002,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,3,Amazon Prime,9,5,60005,60006,60003,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,3,Disney+,17,3,60005,60006,60010,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,3,HBO Max,10,0,60005,60006,60014,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,3,Netflix,12,2,60005,60006,60008,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,3,Paramount+,9,0,60005,60006,60002,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,4,Amazon Prime,7,3,60002,60006,60003,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,4,Disney+,9,4,60002,60006,60010,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,4,HBO Max,13,4,60002,60006,60014,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,4,Netflix,10,1,60002,60006,60008,60013
+"Smart TV 55"" UHD 4K",Córdoba,Córdoba,4,Paramount+,12,6,60002,60006,60002,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,1,Amazon Prime,4,3,60004,60014,60003,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,1,Disney+,6,1,60004,60014,60010,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,1,HBO Max,8,0,60004,60014,60014,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,1,Netflix,14,2,60004,60014,60008,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,1,Paramount+,6,4,60004,60014,60002,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,2,Amazon Prime,11,4,60003,60014,60003,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,2,Disney+,5,3,60003,60014,60010,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,2,HBO Max,6,5,60003,60014,60014,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,2,Netflix,9,6,60003,60014,60008,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,2,Paramount+,8,2,60003,60014,60002,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,3,Amazon Prime,8,1,60005,60014,60003,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,3,Disney+,7,3,60005,60014,60010,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,3,HBO Max,13,2,60005,60014,60014,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,3,Netflix,7,3,60005,60014,60008,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,3,Paramount+,10,2,60005,60014,60002,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,4,Amazon Prime,13,4,60002,60014,60003,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,4,Disney+,14,3,60002,60014,60010,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,4,HBO Max,11,4,60002,60014,60014,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,4,Netflix,10,2,60002,60014,60008,60013
+"Smart TV 55"" UHD 4K",La Plata,Buenos Aires,4,Paramount+,9,2,60002,60014,60002,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,1,Amazon Prime,10,5,60004,60004,60003,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,1,Disney+,5,3,60004,60004,60010,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,1,HBO Max,6,4,60004,60004,60014,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,1,Netflix,10,4,60004,60004,60008,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,1,Paramount+,10,4,60004,60004,60002,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,2,Amazon Prime,12,2,60003,60004,60003,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,2,Disney+,12,2,60003,60004,60010,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,2,HBO Max,8,3,60003,60004,60014,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,2,Netflix,7,3,60003,60004,60008,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,2,Paramount+,11,3,60003,60004,60002,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,3,Amazon Prime,8,3,60005,60004,60003,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,3,Disney+,10,7,60005,60004,60010,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,3,HBO Max,10,3,60005,60004,60014,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,3,Netflix,10,2,60005,60004,60008,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,3,Paramount+,17,4,60005,60004,60002,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,4,Amazon Prime,14,2,60002,60004,60003,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,4,Disney+,9,5,60002,60004,60010,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,4,HBO Max,10,2,60002,60004,60014,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,4,Netflix,11,3,60002,60004,60008,60013
+"Smart TV 55"" UHD 4K",Mendoza,Mendoza,4,Paramount+,13,5,60002,60004,60002,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,1,Amazon Prime,7,1,60004,60022,60003,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,1,Disney+,15,3,60004,60022,60010,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,1,HBO Max,8,3,60004,60022,60014,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,1,Netflix,7,2,60004,60022,60008,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,1,Paramount+,12,4,60004,60022,60002,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,2,Amazon Prime,12,1,60003,60022,60003,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,2,Disney+,6,0,60003,60022,60010,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,2,HBO Max,7,0,60003,60022,60014,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,2,Netflix,5,0,60003,60022,60008,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,2,Paramount+,11,3,60003,60022,60002,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,3,Amazon Prime,9,6,60005,60022,60003,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,3,Disney+,15,2,60005,60022,60010,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,3,HBO Max,6,4,60005,60022,60014,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,3,Netflix,6,3,60005,60022,60008,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,3,Paramount+,7,1,60005,60022,60002,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,4,Amazon Prime,12,4,60002,60022,60003,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,4,Disney+,9,2,60002,60022,60010,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,4,HBO Max,6,0,60002,60022,60014,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,4,Netflix,11,2,60002,60022,60008,60013
+"Smart TV 55"" UHD 4K",Neuquén,Neuquén,4,Paramount+,5,1,60002,60022,60002,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,1,Amazon Prime,11,5,60004,60012,60003,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,1,Disney+,8,3,60004,60012,60010,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,1,HBO Max,16,4,60004,60012,60014,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,1,Netflix,11,1,60004,60012,60008,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,1,Paramount+,18,3,60004,60012,60002,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,2,Amazon Prime,11,1,60003,60012,60003,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,2,Disney+,7,1,60003,60012,60010,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,2,HBO Max,16,2,60003,60012,60014,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,2,Netflix,6,4,60003,60012,60008,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,2,Paramount+,6,2,60003,60012,60002,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,3,Amazon Prime,10,3,60005,60012,60003,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,3,Disney+,13,1,60005,60012,60010,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,3,HBO Max,13,3,60005,60012,60014,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,3,Netflix,5,2,60005,60012,60008,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,3,Paramount+,6,3,60005,60012,60002,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,4,Amazon Prime,15,3,60002,60012,60003,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,4,Disney+,12,3,60002,60012,60010,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,4,HBO Max,8,0,60002,60012,60014,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,4,Netflix,15,1,60002,60012,60008,60013
+"Smart TV 55"" UHD 4K",Paraná,Entre Ríos,4,Paramount+,14,0,60002,60012,60002,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,1,Amazon Prime,11,2,60004,60005,60003,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,1,Disney+,7,5,60004,60005,60010,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,1,HBO Max,12,4,60004,60005,60014,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,1,Netflix,10,1,60004,60005,60008,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,1,Paramount+,12,3,60004,60005,60002,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,2,Amazon Prime,11,2,60003,60005,60003,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,2,Disney+,5,0,60003,60005,60010,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,2,HBO Max,9,5,60003,60005,60014,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,2,Netflix,8,2,60003,60005,60008,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,2,Paramount+,8,2,60003,60005,60002,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,3,Amazon Prime,10,5,60005,60005,60003,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,3,Disney+,11,1,60005,60005,60010,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,3,HBO Max,7,1,60005,60005,60014,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,3,Netflix,6,6,60005,60005,60008,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,3,Paramount+,7,6,60005,60005,60002,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,4,Amazon Prime,9,6,60002,60005,60003,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,4,Disney+,21,1,60002,60005,60010,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,4,HBO Max,9,0,60002,60005,60014,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,4,Netflix,10,2,60002,60005,60008,60013
+"Smart TV 55"" UHD 4K",Rosario,Santa Fe,4,Paramount+,6,1,60002,60005,60002,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,1,Amazon Prime,10,2,60004,60007,60003,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,1,Disney+,10,4,60004,60007,60010,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,1,HBO Max,5,6,60004,60007,60014,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,1,Netflix,7,0,60004,60007,60008,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,1,Paramount+,10,4,60004,60007,60002,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,2,Amazon Prime,8,7,60003,60007,60003,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,2,Disney+,8,4,60003,60007,60010,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,2,HBO Max,10,2,60003,60007,60014,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,2,Netflix,13,6,60003,60007,60008,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,2,Paramount+,12,6,60003,60007,60002,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,3,Amazon Prime,12,5,60005,60007,60003,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,3,Disney+,8,1,60005,60007,60010,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,3,HBO Max,6,4,60005,60007,60014,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,3,Netflix,7,4,60005,60007,60008,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,3,Paramount+,4,4,60005,60007,60002,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,4,Amazon Prime,5,9,60002,60007,60003,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,4,Disney+,11,4,60002,60007,60010,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,4,HBO Max,6,6,60002,60007,60014,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,4,Netflix,10,7,60002,60007,60008,60013
+"Smart TV 55"" UHD 4K",Salta,Salta,4,Paramount+,12,8,60002,60007,60002,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,1,Amazon Prime,10,0,60004,60009,60003,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,1,Disney+,12,1,60004,60009,60010,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,1,HBO Max,11,1,60004,60009,60014,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,1,Netflix,8,0,60004,60009,60008,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,1,Paramount+,8,1,60004,60009,60002,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,2,Amazon Prime,7,2,60003,60009,60003,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,2,Disney+,12,1,60003,60009,60010,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,2,HBO Max,7,3,60003,60009,60014,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,2,Netflix,6,3,60003,60009,60008,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,2,Paramount+,17,2,60003,60009,60002,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,3,Amazon Prime,6,0,60005,60009,60003,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,3,Disney+,6,5,60005,60009,60010,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,3,HBO Max,11,1,60005,60009,60014,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,3,Netflix,11,3,60005,60009,60008,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,3,Paramount+,12,4,60005,60009,60002,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,4,Amazon Prime,7,4,60002,60009,60003,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,4,Disney+,11,0,60002,60009,60010,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,4,HBO Max,11,3,60002,60009,60014,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,4,Netflix,8,1,60002,60009,60008,60013
+"Smart TV 55"" UHD 4K",San Juan,San Juan,4,Paramount+,15,1,60002,60009,60002,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,1,Amazon Prime,4,2,60004,60018,60003,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,1,Disney+,9,2,60004,60018,60010,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,1,HBO Max,8,5,60004,60018,60014,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,1,Netflix,8,4,60004,60018,60008,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,1,Paramount+,9,3,60004,60018,60002,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,2,Amazon Prime,7,4,60003,60018,60003,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,2,Disney+,9,0,60003,60018,60010,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,2,HBO Max,7,5,60003,60018,60014,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,2,Netflix,5,4,60003,60018,60008,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,2,Paramount+,9,8,60003,60018,60002,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,3,Amazon Prime,9,8,60005,60018,60003,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,3,Disney+,5,8,60005,60018,60010,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,3,HBO Max,12,5,60005,60018,60014,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,3,Netflix,4,6,60005,60018,60008,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,3,Paramount+,3,6,60005,60018,60002,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,4,Amazon Prime,5,4,60002,60018,60003,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,4,Disney+,5,9,60002,60018,60010,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,4,HBO Max,12,3,60002,60018,60014,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,4,Netflix,5,6,60002,60018,60008,60013
+"Smart TV 55"" UHD 4K",San Miguel de Tucumán,Tucumán,4,Paramount+,7,5,60002,60018,60002,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,1,Amazon Prime,11,2,60004,60013,60003,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,1,Disney+,11,3,60004,60013,60010,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,1,HBO Max,8,1,60004,60013,60014,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,1,Netflix,17,1,60004,60013,60008,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,1,Paramount+,11,1,60004,60013,60002,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,2,Amazon Prime,8,0,60003,60013,60003,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,2,Disney+,3,3,60003,60013,60010,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,2,HBO Max,10,3,60003,60013,60014,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,2,Netflix,8,2,60003,60013,60008,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,2,Paramount+,10,1,60003,60013,60002,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,3,Amazon Prime,10,1,60005,60013,60003,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,3,Disney+,7,2,60005,60013,60010,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,3,HBO Max,9,0,60005,60013,60014,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,3,Netflix,7,2,60005,60013,60008,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,3,Paramount+,7,2,60005,60013,60002,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,4,Amazon Prime,10,2,60002,60013,60003,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,4,Disney+,16,4,60002,60013,60010,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,4,HBO Max,6,2,60002,60013,60014,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,4,Netflix,13,0,60002,60013,60008,60013
+"Smart TV 55"" UHD 4K",Trelew,Chubut,4,Paramount+,17,2,60002,60013,60002,60013
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,1,Amazon Prime,5,5,60004,60006,60003,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,1,Disney+,10,1,60004,60006,60010,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,1,HBO Max,13,3,60004,60006,60014,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,1,Netflix,13,4,60004,60006,60008,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,1,Paramount+,7,2,60004,60006,60002,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,2,Amazon Prime,6,1,60003,60006,60003,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,2,Disney+,15,3,60003,60006,60010,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,2,HBO Max,13,0,60003,60006,60014,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,2,Netflix,7,2,60003,60006,60008,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,2,Paramount+,6,1,60003,60006,60002,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,3,Amazon Prime,11,6,60005,60006,60003,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,3,Disney+,9,3,60005,60006,60010,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,3,HBO Max,8,3,60005,60006,60014,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,3,Netflix,14,6,60005,60006,60008,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,3,Paramount+,8,3,60005,60006,60002,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,4,Amazon Prime,9,5,60002,60006,60003,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,4,Disney+,18,2,60002,60006,60010,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,4,HBO Max,14,0,60002,60006,60014,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,4,Netflix,10,5,60002,60006,60008,60004
+"Smart TV 65"" OLED 4K",Córdoba,Córdoba,4,Paramount+,15,3,60002,60006,60002,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,1,Amazon Prime,12,9,60004,60014,60003,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,1,Disney+,15,0,60004,60014,60010,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,1,HBO Max,11,6,60004,60014,60014,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,1,Netflix,10,2,60004,60014,60008,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,1,Paramount+,6,4,60004,60014,60002,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,2,Amazon Prime,10,4,60003,60014,60003,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,2,Disney+,13,1,60003,60014,60010,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,2,HBO Max,10,5,60003,60014,60014,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,2,Netflix,11,5,60003,60014,60008,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,2,Paramount+,5,2,60003,60014,60002,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,3,Amazon Prime,11,3,60005,60014,60003,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,3,Disney+,6,2,60005,60014,60010,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,3,HBO Max,7,3,60005,60014,60014,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,3,Netflix,10,3,60005,60014,60008,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,3,Paramount+,11,3,60005,60014,60002,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,4,Amazon Prime,7,4,60002,60014,60003,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,4,Disney+,6,1,60002,60014,60010,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,4,HBO Max,8,5,60002,60014,60014,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,4,Netflix,14,1,60002,60014,60008,60004
+"Smart TV 65"" OLED 4K",La Plata,Buenos Aires,4,Paramount+,12,4,60002,60014,60002,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,1,Amazon Prime,7,8,60004,60004,60003,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,1,Disney+,15,2,60004,60004,60010,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,1,HBO Max,15,3,60004,60004,60014,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,1,Netflix,15,4,60004,60004,60008,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,1,Paramount+,16,5,60004,60004,60002,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,2,Amazon Prime,11,2,60003,60004,60003,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,2,Disney+,8,3,60003,60004,60010,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,2,HBO Max,5,3,60003,60004,60014,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,2,Netflix,5,1,60003,60004,60008,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,2,Paramount+,14,5,60003,60004,60002,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,3,Amazon Prime,8,2,60005,60004,60003,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,3,Disney+,10,4,60005,60004,60010,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,3,HBO Max,15,2,60005,60004,60014,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,3,Netflix,12,1,60005,60004,60008,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,3,Paramount+,9,3,60005,60004,60002,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,4,Amazon Prime,10,4,60002,60004,60003,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,4,Disney+,10,2,60002,60004,60010,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,4,HBO Max,7,2,60002,60004,60014,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,4,Netflix,11,2,60002,60004,60008,60004
+"Smart TV 65"" OLED 4K",Mendoza,Mendoza,4,Paramount+,15,3,60002,60004,60002,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,1,Amazon Prime,6,4,60004,60022,60003,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,1,Disney+,13,3,60004,60022,60010,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,1,HBO Max,10,3,60004,60022,60014,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,1,Netflix,11,5,60004,60022,60008,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,1,Paramount+,5,1,60004,60022,60002,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,2,Amazon Prime,16,2,60003,60022,60003,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,2,Disney+,4,4,60003,60022,60010,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,2,HBO Max,7,1,60003,60022,60014,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,2,Netflix,13,3,60003,60022,60008,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,2,Paramount+,11,3,60003,60022,60002,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,3,Amazon Prime,13,2,60005,60022,60003,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,3,Disney+,11,3,60005,60022,60010,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,3,HBO Max,12,1,60005,60022,60014,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,3,Netflix,9,1,60005,60022,60008,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,3,Paramount+,7,5,60005,60022,60002,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,4,Amazon Prime,9,5,60002,60022,60003,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,4,Disney+,10,1,60002,60022,60010,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,4,HBO Max,9,1,60002,60022,60014,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,4,Netflix,13,4,60002,60022,60008,60004
+"Smart TV 65"" OLED 4K",Neuquén,Neuquén,4,Paramount+,12,5,60002,60022,60002,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,1,Amazon Prime,12,1,60004,60012,60003,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,1,Disney+,9,0,60004,60012,60010,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,1,HBO Max,5,1,60004,60012,60014,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,1,Netflix,10,2,60004,60012,60008,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,1,Paramount+,14,2,60004,60012,60002,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,2,Amazon Prime,14,2,60003,60012,60003,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,2,Disney+,4,1,60003,60012,60010,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,2,HBO Max,10,1,60003,60012,60014,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,2,Netflix,4,4,60003,60012,60008,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,2,Paramount+,17,1,60003,60012,60002,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,3,Amazon Prime,13,1,60005,60012,60003,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,3,Disney+,11,2,60005,60012,60010,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,3,HBO Max,7,0,60005,60012,60014,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,3,Netflix,7,4,60005,60012,60008,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,3,Paramount+,7,3,60005,60012,60002,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,4,Amazon Prime,9,3,60002,60012,60003,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,4,Disney+,5,5,60002,60012,60010,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,4,HBO Max,13,2,60002,60012,60014,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,4,Netflix,15,1,60002,60012,60008,60004
+"Smart TV 65"" OLED 4K",Paraná,Entre Ríos,4,Paramount+,13,1,60002,60012,60002,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,1,Amazon Prime,7,6,60004,60005,60003,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,1,Disney+,11,4,60004,60005,60010,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,1,HBO Max,16,3,60004,60005,60014,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,1,Netflix,14,2,60004,60005,60008,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,1,Paramount+,9,1,60004,60005,60002,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,2,Amazon Prime,5,5,60003,60005,60003,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,2,Disney+,13,1,60003,60005,60010,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,2,HBO Max,6,2,60003,60005,60014,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,2,Netflix,4,2,60003,60005,60008,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,2,Paramount+,10,1,60003,60005,60002,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,3,Amazon Prime,6,1,60005,60005,60003,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,3,Disney+,12,4,60005,60005,60010,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,3,HBO Max,9,3,60005,60005,60014,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,3,Netflix,12,3,60005,60005,60008,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,3,Paramount+,8,5,60005,60005,60002,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,4,Amazon Prime,13,2,60002,60005,60003,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,4,Disney+,11,1,60002,60005,60010,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,4,HBO Max,9,6,60002,60005,60014,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,4,Netflix,13,7,60002,60005,60008,60004
+"Smart TV 65"" OLED 4K",Rosario,Santa Fe,4,Paramount+,6,4,60002,60005,60002,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,1,Amazon Prime,10,2,60004,60007,60003,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,1,Disney+,13,5,60004,60007,60010,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,1,HBO Max,7,3,60004,60007,60014,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,1,Netflix,3,4,60004,60007,60008,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,1,Paramount+,5,3,60004,60007,60002,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,2,Amazon Prime,8,7,60003,60007,60003,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,2,Disney+,4,6,60003,60007,60010,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,2,HBO Max,11,2,60003,60007,60014,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,2,Netflix,8,1,60003,60007,60008,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,2,Paramount+,8,1,60003,60007,60002,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,3,Amazon Prime,7,4,60005,60007,60003,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,3,Disney+,7,7,60005,60007,60010,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,3,HBO Max,8,4,60005,60007,60014,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,3,Netflix,12,3,60005,60007,60008,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,3,Paramount+,10,5,60005,60007,60002,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,4,Amazon Prime,6,7,60002,60007,60003,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,4,Disney+,4,4,60002,60007,60010,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,4,HBO Max,10,4,60002,60007,60014,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,4,Netflix,6,5,60002,60007,60008,60004
+"Smart TV 65"" OLED 4K",Salta,Salta,4,Paramount+,8,4,60002,60007,60002,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,1,Amazon Prime,12,2,60004,60009,60003,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,1,Disney+,12,0,60004,60009,60010,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,1,HBO Max,11,3,60004,60009,60014,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,1,Netflix,11,0,60004,60009,60008,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,1,Paramount+,6,1,60004,60009,60002,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,2,Amazon Prime,7,4,60003,60009,60003,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,2,Disney+,11,2,60003,60009,60010,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,2,HBO Max,13,5,60003,60009,60014,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,2,Netflix,9,0,60003,60009,60008,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,2,Paramount+,7,3,60003,60009,60002,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,3,Amazon Prime,10,2,60005,60009,60003,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,3,Disney+,9,4,60005,60009,60010,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,3,HBO Max,12,1,60005,60009,60014,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,3,Netflix,12,1,60005,60009,60008,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,3,Paramount+,9,4,60005,60009,60002,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,4,Amazon Prime,7,2,60002,60009,60003,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,4,Disney+,14,3,60002,60009,60010,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,4,HBO Max,12,0,60002,60009,60014,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,4,Netflix,14,1,60002,60009,60008,60004
+"Smart TV 65"" OLED 4K",San Juan,San Juan,4,Paramount+,7,0,60002,60009,60002,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,1,Amazon Prime,7,6,60004,60018,60003,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,1,Disney+,4,8,60004,60018,60010,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,1,HBO Max,11,5,60004,60018,60014,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,1,Netflix,7,5,60004,60018,60008,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,1,Paramount+,6,4,60004,60018,60002,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,2,Amazon Prime,10,5,60003,60018,60003,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,2,Disney+,8,5,60003,60018,60010,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,2,HBO Max,3,7,60003,60018,60014,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,2,Netflix,7,6,60003,60018,60008,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,2,Paramount+,8,7,60003,60018,60002,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,3,Amazon Prime,9,4,60005,60018,60003,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,3,Disney+,6,7,60005,60018,60010,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,3,HBO Max,6,8,60005,60018,60014,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,3,Netflix,8,2,60005,60018,60008,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,3,Paramount+,5,4,60005,60018,60002,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,4,Amazon Prime,10,5,60002,60018,60003,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,4,Disney+,3,3,60002,60018,60010,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,4,HBO Max,6,4,60002,60018,60014,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,4,Netflix,6,8,60002,60018,60008,60004
+"Smart TV 65"" OLED 4K",San Miguel de Tucumán,Tucumán,4,Paramount+,5,4,60002,60018,60002,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,1,Amazon Prime,15,1,60004,60013,60003,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,1,Disney+,3,3,60004,60013,60010,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,1,HBO Max,7,2,60004,60013,60014,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,1,Netflix,6,0,60004,60013,60008,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,1,Paramount+,11,4,60004,60013,60002,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,2,Amazon Prime,15,2,60003,60013,60003,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,2,Disney+,12,0,60003,60013,60010,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,2,HBO Max,8,2,60003,60013,60014,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,2,Netflix,7,4,60003,60013,60008,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,2,Paramount+,10,0,60003,60013,60002,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,3,Amazon Prime,11,1,60005,60013,60003,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,3,Disney+,7,3,60005,60013,60010,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,3,HBO Max,17,3,60005,60013,60014,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,3,Netflix,9,1,60005,60013,60008,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,3,Paramount+,17,3,60005,60013,60002,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,4,Amazon Prime,6,1,60002,60013,60003,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,4,Disney+,12,3,60002,60013,60010,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,4,HBO Max,8,1,60002,60013,60014,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,4,Netflix,12,1,60002,60013,60008,60004
+"Smart TV 65"" OLED 4K",Trelew,Chubut,4,Paramount+,11,2,60002,60013,60002,60004
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,1,Amazon Prime,7,2,60004,60006,60003,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,1,Disney+,13,5,60004,60006,60010,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,1,HBO Max,15,0,60004,60006,60014,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,1,Netflix,10,7,60004,60006,60008,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,1,Paramount+,5,7,60004,60006,60002,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,2,Amazon Prime,10,2,60003,60006,60003,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,2,Disney+,7,3,60003,60006,60010,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,2,HBO Max,14,3,60003,60006,60014,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,2,Netflix,9,2,60003,60006,60008,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,2,Paramount+,12,1,60003,60006,60002,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,3,Amazon Prime,8,2,60005,60006,60003,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,3,Disney+,7,2,60005,60006,60010,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,3,HBO Max,4,1,60005,60006,60014,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,3,Netflix,10,3,60005,60006,60008,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,3,Paramount+,7,0,60005,60006,60002,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,4,Amazon Prime,9,2,60002,60006,60003,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,4,Disney+,18,3,60002,60006,60010,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,4,HBO Max,9,2,60002,60006,60014,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,4,Netflix,13,2,60002,60006,60008,60002
+"Smart TV 75"" Neo QLED 4K",Córdoba,Córdoba,4,Paramount+,10,1,60002,60006,60002,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,1,Amazon Prime,12,5,60004,60014,60003,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,1,Disney+,11,3,60004,60014,60010,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,1,HBO Max,11,2,60004,60014,60014,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,1,Netflix,14,2,60004,60014,60008,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,1,Paramount+,9,4,60004,60014,60002,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,2,Amazon Prime,8,1,60003,60014,60003,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,2,Disney+,9,3,60003,60014,60010,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,2,HBO Max,19,5,60003,60014,60014,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,2,Netflix,9,4,60003,60014,60008,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,2,Paramount+,12,2,60003,60014,60002,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,3,Amazon Prime,9,2,60005,60014,60003,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,3,Disney+,7,3,60005,60014,60010,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,3,HBO Max,4,3,60005,60014,60014,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,3,Netflix,9,2,60005,60014,60008,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,3,Paramount+,7,2,60005,60014,60002,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,4,Amazon Prime,13,2,60002,60014,60003,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,4,Disney+,11,2,60002,60014,60010,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,4,HBO Max,10,2,60002,60014,60014,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,4,Netflix,10,6,60002,60014,60008,60002
+"Smart TV 75"" Neo QLED 4K",La Plata,Buenos Aires,4,Paramount+,3,1,60002,60014,60002,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,1,Amazon Prime,7,5,60004,60004,60003,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,1,Disney+,8,2,60004,60004,60010,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,1,HBO Max,14,4,60004,60004,60014,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,1,Netflix,11,1,60004,60004,60008,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,1,Paramount+,10,5,60004,60004,60002,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,2,Amazon Prime,4,2,60003,60004,60003,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,2,Disney+,12,0,60003,60004,60010,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,2,HBO Max,8,2,60003,60004,60014,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,2,Netflix,15,1,60003,60004,60008,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,2,Paramount+,12,3,60003,60004,60002,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,3,Amazon Prime,7,1,60005,60004,60003,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,3,Disney+,6,2,60005,60004,60010,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,3,HBO Max,9,2,60005,60004,60014,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,3,Netflix,12,3,60005,60004,60008,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,3,Paramount+,5,4,60005,60004,60002,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,4,Amazon Prime,6,1,60002,60004,60003,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,4,Disney+,13,4,60002,60004,60010,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,4,HBO Max,6,5,60002,60004,60014,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,4,Netflix,6,6,60002,60004,60008,60002
+"Smart TV 75"" Neo QLED 4K",Mendoza,Mendoza,4,Paramount+,11,5,60002,60004,60002,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,1,Amazon Prime,9,2,60004,60022,60003,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,1,Disney+,16,1,60004,60022,60010,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,1,HBO Max,5,2,60004,60022,60014,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,1,Netflix,9,1,60004,60022,60008,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,1,Paramount+,17,1,60004,60022,60002,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,2,Amazon Prime,8,4,60003,60022,60003,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,2,Disney+,8,4,60003,60022,60010,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,2,HBO Max,12,3,60003,60022,60014,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,2,Netflix,13,2,60003,60022,60008,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,2,Paramount+,7,6,60003,60022,60002,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,3,Amazon Prime,8,0,60005,60022,60003,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,3,Disney+,12,3,60005,60022,60010,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,3,HBO Max,8,3,60005,60022,60014,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,3,Netflix,8,1,60005,60022,60008,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,3,Paramount+,11,2,60005,60022,60002,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,4,Amazon Prime,11,2,60002,60022,60003,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,4,Disney+,13,2,60002,60022,60010,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,4,HBO Max,8,1,60002,60022,60014,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,4,Netflix,11,2,60002,60022,60008,60002
+"Smart TV 75"" Neo QLED 4K",Neuquén,Neuquén,4,Paramount+,12,6,60002,60022,60002,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,1,Amazon Prime,9,1,60004,60012,60003,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,1,Disney+,6,3,60004,60012,60010,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,1,HBO Max,6,3,60004,60012,60014,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,1,Netflix,15,2,60004,60012,60008,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,1,Paramount+,7,7,60004,60012,60002,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,2,Amazon Prime,9,1,60003,60012,60003,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,2,Disney+,7,2,60003,60012,60010,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,2,HBO Max,4,1,60003,60012,60014,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,2,Netflix,18,2,60003,60012,60008,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,2,Paramount+,9,1,60003,60012,60002,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,3,Amazon Prime,10,0,60005,60012,60003,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,3,Disney+,12,6,60005,60012,60010,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,3,HBO Max,16,1,60005,60012,60014,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,3,Netflix,9,3,60005,60012,60008,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,3,Paramount+,12,1,60005,60012,60002,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,4,Amazon Prime,10,3,60002,60012,60003,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,4,Disney+,8,1,60002,60012,60010,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,4,HBO Max,13,1,60002,60012,60014,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,4,Netflix,15,1,60002,60012,60008,60002
+"Smart TV 75"" Neo QLED 4K",Paraná,Entre Ríos,4,Paramount+,11,3,60002,60012,60002,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,1,Amazon Prime,9,3,60004,60005,60003,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,1,Disney+,5,3,60004,60005,60010,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,1,HBO Max,5,3,60004,60005,60014,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,1,Netflix,10,2,60004,60005,60008,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,1,Paramount+,19,1,60004,60005,60002,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,2,Amazon Prime,14,2,60003,60005,60003,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,2,Disney+,16,8,60003,60005,60010,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,2,HBO Max,6,3,60003,60005,60014,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,2,Netflix,8,2,60003,60005,60008,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,2,Paramount+,13,3,60003,60005,60002,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,3,Amazon Prime,6,5,60005,60005,60003,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,3,Disney+,13,5,60005,60005,60010,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,3,HBO Max,8,2,60005,60005,60014,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,3,Netflix,9,4,60005,60005,60008,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,3,Paramount+,8,7,60005,60005,60002,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,4,Amazon Prime,16,4,60002,60005,60003,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,4,Disney+,9,0,60002,60005,60010,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,4,HBO Max,14,7,60002,60005,60014,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,4,Netflix,5,2,60002,60005,60008,60002
+"Smart TV 75"" Neo QLED 4K",Rosario,Santa Fe,4,Paramount+,8,2,60002,60005,60002,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,1,Amazon Prime,10,3,60004,60007,60003,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,1,Disney+,9,4,60004,60007,60010,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,1,HBO Max,6,6,60004,60007,60014,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,1,Netflix,4,2,60004,60007,60008,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,1,Paramount+,5,2,60004,60007,60002,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,2,Amazon Prime,8,7,60003,60007,60003,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,2,Disney+,12,4,60003,60007,60010,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,2,HBO Max,10,7,60003,60007,60014,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,2,Netflix,7,6,60003,60007,60008,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,2,Paramount+,6,8,60003,60007,60002,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,3,Amazon Prime,8,4,60005,60007,60003,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,3,Disney+,7,7,60005,60007,60010,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,3,HBO Max,7,3,60005,60007,60014,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,3,Netflix,8,5,60005,60007,60008,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,3,Paramount+,8,2,60005,60007,60002,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,4,Amazon Prime,10,4,60002,60007,60003,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,4,Disney+,6,5,60002,60007,60010,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,4,HBO Max,6,7,60002,60007,60014,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,4,Netflix,16,1,60002,60007,60008,60002
+"Smart TV 75"" Neo QLED 4K",Salta,Salta,4,Paramount+,6,7,60002,60007,60002,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,1,Amazon Prime,11,1,60004,60009,60003,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,1,Disney+,9,3,60004,60009,60010,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,1,HBO Max,7,0,60004,60009,60014,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,1,Netflix,12,0,60004,60009,60008,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,1,Paramount+,15,0,60004,60009,60002,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,2,Amazon Prime,11,3,60003,60009,60003,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,2,Disney+,8,3,60003,60009,60010,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,2,HBO Max,10,3,60003,60009,60014,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,2,Netflix,4,3,60003,60009,60008,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,2,Paramount+,5,1,60003,60009,60002,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,3,Amazon Prime,14,3,60005,60009,60003,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,3,Disney+,8,0,60005,60009,60010,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,3,HBO Max,7,3,60005,60009,60014,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,3,Netflix,12,1,60005,60009,60008,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,3,Paramount+,12,4,60005,60009,60002,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,4,Amazon Prime,14,1,60002,60009,60003,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,4,Disney+,12,0,60002,60009,60010,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,4,HBO Max,8,2,60002,60009,60014,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,4,Netflix,8,5,60002,60009,60008,60002
+"Smart TV 75"" Neo QLED 4K",San Juan,San Juan,4,Paramount+,13,0,60002,60009,60002,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,1,Amazon Prime,7,8,60004,60018,60003,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,1,Disney+,11,6,60004,60018,60010,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,1,HBO Max,7,7,60004,60018,60014,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,1,Netflix,5,4,60004,60018,60008,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,1,Paramount+,9,6,60004,60018,60002,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,2,Amazon Prime,8,5,60003,60018,60003,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,2,Disney+,6,5,60003,60018,60010,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,2,HBO Max,6,5,60003,60018,60014,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,2,Netflix,9,3,60003,60018,60008,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,2,Paramount+,7,6,60003,60018,60002,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,3,Amazon Prime,8,6,60005,60018,60003,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,3,Disney+,5,3,60005,60018,60010,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,3,HBO Max,12,1,60005,60018,60014,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,3,Netflix,5,2,60005,60018,60008,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,3,Paramount+,5,6,60005,60018,60002,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,4,Amazon Prime,5,6,60002,60018,60003,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,4,Disney+,12,7,60002,60018,60010,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,4,HBO Max,7,9,60002,60018,60014,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,4,Netflix,5,3,60002,60018,60008,60002
+"Smart TV 75"" Neo QLED 4K",San Miguel de Tucumán,Tucumán,4,Paramount+,4,4,60002,60018,60002,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,1,Amazon Prime,12,1,60004,60013,60003,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,1,Disney+,20,4,60004,60013,60010,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,1,HBO Max,8,1,60004,60013,60014,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,1,Netflix,13,0,60004,60013,60008,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,1,Paramount+,8,4,60004,60013,60002,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,2,Amazon Prime,14,3,60003,60013,60003,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,2,Disney+,9,1,60003,60013,60010,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,2,HBO Max,10,1,60003,60013,60014,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,2,Netflix,10,3,60003,60013,60008,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,2,Paramount+,11,1,60003,60013,60002,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,3,Amazon Prime,9,3,60005,60013,60003,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,3,Disney+,8,1,60005,60013,60010,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,3,HBO Max,9,0,60005,60013,60014,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,3,Netflix,4,3,60005,60013,60008,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,3,Paramount+,11,1,60005,60013,60002,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,4,Amazon Prime,13,2,60002,60013,60003,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,4,Disney+,11,0,60002,60013,60010,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,4,HBO Max,13,0,60002,60013,60014,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,4,Netflix,13,3,60002,60013,60008,60002
+"Smart TV 75"" Neo QLED 4K",Trelew,Chubut,4,Paramount+,8,1,60002,60013,60002,60002
